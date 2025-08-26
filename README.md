@@ -1,4 +1,4 @@
-# PyWave: 1D Quantum Wave Function Simulator
+# PyWave: 1D Quantum Wave Function Solver
 
 PyWave is a Python package for simulating and visualizing the time evolution of a one-dimensional quantum mechanical wave function. It provides tools to define a quantum system—including a custom initial wave function and potential energy landscape—and then solves the time-dependent Schrödinger equation to animate the probability density over time.
 
